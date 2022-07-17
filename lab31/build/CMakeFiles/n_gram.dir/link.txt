@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\n_gram.dir/objects.a
+C:\Users\14114\mingw64\bin\ar.exe qc CMakeFiles\n_gram.dir/objects.a @CMakeFiles\n_gram.dir\objects1.rsp
+C:\Users\14114\mingw64\bin\g++.exe -Wall -Wextra -Werror -Ofast -Wl,--whole-archive CMakeFiles\n_gram.dir/objects.a -Wl,--no-whole-archive -o n_gram.exe -Wl,--out-implib,libn_gram.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\n_gram.dir\linklibs.rsp

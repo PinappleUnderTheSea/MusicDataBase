@@ -1,0 +1,3 @@
+F:/C++/lab3/lab31/build/CMakeFiles/n_gram.dir
+F:/C++/lab3/lab31/build/CMakeFiles/edit_cache.dir
+F:/C++/lab3/lab31/build/CMakeFiles/rebuild_cache.dir

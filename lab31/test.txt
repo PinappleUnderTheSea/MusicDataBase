@@ -1,0 +1,14 @@
+best
+main
+good
+small
+large
+man
+woman
+king
+chinese
+america
+university
+,
+oop
+trump
